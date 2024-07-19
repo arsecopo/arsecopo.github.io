@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arsecopo.github.io/sitemap
+Sitemap: https://arsecopo.github.io/app/sitemap
+Sitemap: https://arsecopo.github.io/assets/sitemap
+Sitemap: https://arsecopo.github.io/css/sitemap
+Sitemap: https://arsecopo.github.io/includes/sitemap
+Sitemap: https://arsecopo.github.io/item/sitemap
+Sitemap: https://arsecopo.github.io/src/sitemap
